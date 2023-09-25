@@ -3,6 +3,6 @@
 * git status
 * git add .
 * git commit -m "text"
-* git puhs origin main
+* git push origin main
 * git log
 * git chechout
